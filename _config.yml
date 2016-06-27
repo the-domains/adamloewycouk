@@ -1,0 +1,14 @@
+layout_spectrum: 0.20247733313590288
+typography_spectrum: 0.5887439188081771
+color:
+  brandStrength: 0.8550549149513245
+  lightness: 0.5602844993118197
+  saturation: 0.9433071550447494
+  rhythmicContrast: 0.823210547445342
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: adamloewy.co.uk
